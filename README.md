@@ -1,16 +1,24 @@
-### Hi there 👋
+# 👋 Hi there, I'm Ashik Seere Veettil!
 
-<!--
-**VU3WUR/VU3WUR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Embedded Designer | Rapid Prototyping | PLC & Automation | Robotics Enthusiast | PCB Designer
 
-Here are some ideas to get you started:
+🎓 Currently pursuing a Bachelor's degree in Mechatronics & Intelligent Machines at the University of Central Lancashire.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# 🛠️ Skills and interests
+- Analog and Digital Electronics
+- System Development
+- Electro-pneumatics
+- Embedded Systems
+- PCB Designing
+- 3D Designing & Additive Manufacturing
+- C, Arduino, and Python Programming
+- PLC Programming
+- RTOS Software Development
+- Technical Documentation
+- Robotics & Automation
+
+#  🔗 Connect with me on LinkedIn:  ( www.linkedin.com/in/ashiksv )
+
+
+Excited to collaborate on innovative projects and contribute to the world of technology! 🌟
