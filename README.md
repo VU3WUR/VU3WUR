@@ -2,8 +2,6 @@
 
 🚀 Embedded Designer | Rapid Prototyping | PLC & Automation | Robotics Enthusiast | PCB Designer
 
-🎓 Currently pursuing a Bachelor's degree in Mechatronics & Intelligent Machines at the University of Central Lancashire.
-
 
 # 🛠️ Skills and interests
 - Analog and Digital Electronics
